@@ -21,7 +21,7 @@ This script is a submission for the AI/LLM Engineer Intern assignment. It analyz
 2.  **Create a virtual environment:**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    venv\Scripts\activate
     ```
 
 3.  **Install the required libraries:**
