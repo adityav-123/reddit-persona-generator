@@ -1,0 +1,27 @@
+USER PERSONA: u/koiled
+==============================
+
+## AI-Generated Bio ##
+This Reddit user is a vaping enthusiast with a focus on high-VG e-liquids and specific brands like Sigelei and Kick Ass Juice.  They are interested in maximizing vaping satisfaction through thoughtful hardware choices and dripping, demonstrating a practical and analytical approach to their hobby.  Their comments also reveal a generally helpful and community-minded personality.
+
+## Personality & Tone ##
+- Overall Tone: Generally Positive (Sentiment Score: 0.15)
+
+## Key Interests (from Subreddit Activity) ##
+- electronic_cigarette (based on 47 recent activities)
+- AskReddit (based on 4 recent activities)
+
+
+## Example of Activity ##
+Here's an example of their activity in r/electronic_cigarette:
+------------------------
+URL: https://www.reddit.com/r/electronic_cigarette/comments/36ei4h/more_kids_vaping/crddawd/
+
+"https://www.youtube.com/watch?v=m114yAjz3jU
+
+As terrible as all three of those videos posted are, this one is interesting to me. It tells a tale.
+
+Corey is not the smartest guy around, but he seems to be influenced by his older sisters boyfriend. 
+
+if i was the parents id like to have a talk with th..."
+------------------------
